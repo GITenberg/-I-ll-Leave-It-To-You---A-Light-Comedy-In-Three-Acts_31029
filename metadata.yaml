@@ -1,0 +1,31 @@
+_repo: -I-ll-Leave-It-To-You---A-Light-Comedy-In-Three-Acts_31029
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coward, Noel
+    aliases:
+    - Coward, Noel Pierce, Sir
+    - Coward, Noël
+    birthdate: 1899
+    deathdate: 1973
+    gutenberg_agent_id: '32147'
+    url: http://www.gutenberg.org/2009/agents/32147
+    wikipedia: http://en.wikipedia.org/wiki/No%C3%ABl_Coward
+description: ''
+gutenberg_issued: '2010-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Drama'
+title: '"I''ll Leave It To You": A Light Comedy In Three Acts'
+url: http://www.gutenberg.org/ebooks/31029
